@@ -103,3 +103,41 @@ Then from root directory :
 ./scripts/buildScalyr.js
 ./scripts/startJsTester
 ```
+
+
+刘展
+2015年10月29日
+ 
+             Fortunejs framework core/ java spring
+
+基于模块化requirejs，相当于java import，用于js类加载依赖类
+js类和js对象 基于es5版本
+关键字语法
+consructor 
+creates
+statics
+staticz
+extendz
+mixins
+配置文件.json
+
+
+五层结构
+ioc
+       controller 引用
+       service   view
+       store       
+       beanfactory/json config
+events
+aop
+       proxyfactory interceptor五种
+
+ioc用法
+
+
+aop用法
+
+
+
+
+
